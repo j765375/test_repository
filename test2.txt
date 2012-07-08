@@ -2,3 +2,4 @@
 これはmasterでの追加行です。
 new_branchでの変更点
 release2向けの変更行
+release3向けに作業中
