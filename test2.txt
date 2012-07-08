@@ -3,3 +3,4 @@
 new_branchでの変更点
 release2向けの変更行
 release2.5向けの変更点
+release3向けに作業中
